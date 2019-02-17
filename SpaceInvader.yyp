@@ -34,7 +34,7 @@
             "Key": "02d51084-54fb-4066-8b05-ab853fbd0df4",
             "Value": {
                 "id": "8dc308fd-92c6-4183-946d-afc690762da0",
-                "resourcePath": "sprites\\spr_ship_p1\\spr_ship_p1.yy",
+                "resourcePath": "sprites\\spr_ship\\spr_ship.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -63,18 +63,18 @@
             }
         },
         {
-            "Key": "1142652e-23b3-40cf-9c99-daf45bc9ce77",
-            "Value": {
-                "id": "f3badf85-8fc3-4d6e-ac44-3b0da81c38fc",
-                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
-                "resourceType": "GMTileSet"
-            }
-        },
-        {
             "Key": "13f6fd10-2699-413c-9141-87a3af83d4b7",
             "Value": {
                 "id": "968dab21-03e8-4c5d-a376-108e4799a8d5",
                 "resourcePath": "sprites\\spr_car_explode\\spr_car_explode.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3b1d3831-4af1-436e-a024-c3d390dc835b",
+            "Value": {
+                "id": "2f9521ce-42d6-4d38-81c8-e45406d9aaa4",
+                "resourcePath": "sprites\\spr_ship_live_marker\\spr_ship_live_marker.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -114,7 +114,7 @@
             "Key": "6a61dc53-6cc0-498c-ab21-f1eeadd50ccb",
             "Value": {
                 "id": "bb6580f9-cd85-4dc8-965d-48b85ca1334e",
-                "resourcePath": "objects\\test_exploding_ship\\test_exploding_ship.yy",
+                "resourcePath": "objects\\exploding_ship\\exploding_ship.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "91a45da8-c4e9-403f-acf8-e58df4c121be",
+            "Value": {
+                "id": "50a2567c-4241-494b-8c98-669aa9d80457",
+                "resourcePath": "sprites\\spr_car_live_marker\\spr_car_live_marker.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9993920a-793b-4eee-9fa4-582b2032a2ad",
             "Value": {
                 "id": "27326bbd-90b4-4ef3-b7ee-87ed196dd5fe",
@@ -199,19 +207,19 @@
             }
         },
         {
-            "Key": "a46f32ac-4321-4e79-b83d-cf46dd479a52",
+            "Key": "9aafbc5d-4e49-4d4e-a839-4bf80a20e243",
             "Value": {
-                "id": "a0dde39f-e669-4201-81ab-9cfdde4c4c3a",
-                "resourcePath": "objects\\test_exploding_car\\test_exploding_car.yy",
+                "id": "eb7e5297-8c5f-4901-8617-80a360d8c9b2",
+                "resourcePath": "objects\\state_car_player\\state_car_player.yy",
                 "resourceType": "GMObject"
             }
         },
         {
-            "Key": "a7087ac7-8c3f-4244-8e51-b5a016017591",
+            "Key": "a46f32ac-4321-4e79-b83d-cf46dd479a52",
             "Value": {
-                "id": "99abc51e-4a9d-4e98-a9d0-864c491442f2",
-                "resourcePath": "sounds\\sound0\\sound0.yy",
-                "resourceType": "GMSound"
+                "id": "a0dde39f-e669-4201-81ab-9cfdde4c4c3a",
+                "resourcePath": "objects\\exploding_car\\exploding_car.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -236,6 +244,14 @@
                 "id": "7016fdc3-a4b9-405b-9a4c-ce57d72f42c5",
                 "resourcePath": "views\\b7716bd3-f717-4de7-8def-c4bb1be7a683.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b981d60a-dcaa-4400-8459-f132641b9b05",
+            "Value": {
+                "id": "d954ff97-ec1b-4dbc-b0c7-68b2bfbce542",
+                "resourcePath": "objects\\state_ship_player\\state_ship_player.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -308,6 +324,14 @@
                 "id": "5ecea223-2f56-4f80-89a0-0525af3591ec",
                 "resourcePath": "views\\eec03529-f05c-4e36-9018-3caf7d6d4f4f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f0aa89bb-d58c-490b-8241-46c3c913830a",
+            "Value": {
+                "id": "0dcb9c59-a1cf-45f3-b982-674f1a4595a3",
+                "resourcePath": "sounds\\snd_ship_explosion\\snd_ship_explosion.yy",
+                "resourceType": "GMSound"
             }
         }
     ],

@@ -1,10 +1,19 @@
 {
-    "id": "6a61dc53-6cc0-498c-ab21-f1eeadd50ccb",
+    "id": "a46f32ac-4321-4e79-b83d-cf46dd479a52",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "test_exploding_ship",
+    "name": "exploding_car",
     "eventList": [
-        
+        {
+            "id": "ed3492d9-f462-4f9e-93d2-6550d050070f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a46f32ac-4321-4e79-b83d-cf46dd479a52"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "ae372b3d-80cc-456c-beb8-a28138de5401",
+    "spriteId": "13f6fd10-2699-413c-9141-87a3af83d4b7",
     "visible": true
 }
