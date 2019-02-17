@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "079602c6-b68f-485b-915d-67be3c6318b0",
+            "Value": {
+                "id": "1a28bd8f-cb9a-4385-8eae-54ca6db488bd",
+                "resourcePath": "sounds\\snd_explosion_ship\\snd_explosion_ship.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "08a6170c-cb70-41f3-9927-8d45d6d2eed3",
             "Value": {
                 "id": "3eed7b6f-9f54-440e-bff2-a8e85c7c50bc",
@@ -324,14 +332,6 @@
                 "id": "5ecea223-2f56-4f80-89a0-0525af3591ec",
                 "resourcePath": "views\\eec03529-f05c-4e36-9018-3caf7d6d4f4f.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "f0aa89bb-d58c-490b-8241-46c3c913830a",
-            "Value": {
-                "id": "0dcb9c59-a1cf-45f3-b982-674f1a4595a3",
-                "resourcePath": "sounds\\snd_ship_explosion\\snd_ship_explosion.yy",
-                "resourceType": "GMSound"
             }
         }
     ],

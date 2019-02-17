@@ -1,3 +1,11 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 4758D698
+/// @DnDArgument : "soundid" "snd_explosion_ship"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "079602c6-b68f-485b-915d-67be3c6318b0"
+audio_play_sound(snd_explosion_ship, 0, 1);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 4CF01AEB
