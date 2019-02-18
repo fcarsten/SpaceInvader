@@ -1,6 +1,6 @@
 
 {
-    "name": "room0",
+    "name": "arena",
     "id": "90cf614d-b86a-4378-9655-d2847e0e685b",
     "creationCodeFile": "",
     "inheritCode": false,
