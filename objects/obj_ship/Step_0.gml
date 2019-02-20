@@ -10,8 +10,8 @@ if(x < 20)
 	/// @DnDVersion : 1
 	/// @DnDHash : 2C46F95D
 	/// @DnDParent : 007049B5
-	/// @DnDArgument : "value" "80"
-	x = 80;
+	/// @DnDArgument : "value" "40"
+	x = 40;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
@@ -33,9 +33,9 @@ if(y < 20)
 	/// @DnDVersion : 1
 	/// @DnDHash : 69AEB39A
 	/// @DnDParent : 414AB223
-	/// @DnDArgument : "value" "80"
+	/// @DnDArgument : "value" "40"
 	/// @DnDArgument : "instvar" "1"
-	y = 80;
+	y = 40;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
@@ -57,8 +57,8 @@ if(x > 1024-20)
 	/// @DnDVersion : 1
 	/// @DnDHash : 2252B4C3
 	/// @DnDParent : 1296E173
-	/// @DnDArgument : "value" "1024-80"
-	x = 1024-80;
+	/// @DnDArgument : "value" "1024-40"
+	x = 1024-40;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
@@ -80,9 +80,9 @@ if(y > 768-20)
 	/// @DnDVersion : 1
 	/// @DnDHash : 3B1750DE
 	/// @DnDParent : 30EE5C10
-	/// @DnDArgument : "value" "768-80"
+	/// @DnDArgument : "value" "768-40"
 	/// @DnDArgument : "instvar" "1"
-	y = 768-80;
+	y = 768-40;
 
 	/// @DnDAction : YoYo Games.Instances.Set_Instance_Var
 	/// @DnDVersion : 1
