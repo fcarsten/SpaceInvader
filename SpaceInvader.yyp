@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "2de4f808-61e2-4e21-8f57-145a87770e7f",
+            "Value": {
+                "id": "2348b4a5-ce5e-49c3-af18-911b7a0ee4d7",
+                "resourcePath": "fonts\\font_start\\font_start.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "390fb511-441c-4cab-9b64-92a1c1fcc009",
             "Value": {
                 "id": "c5395df1-e276-4a9f-894b-e595ef326f30",
@@ -275,6 +283,14 @@
             "Value": {
                 "id": "d954ff97-ec1b-4dbc-b0c7-68b2bfbce542",
                 "resourcePath": "objects\\state_ship_player\\state_ship_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bd8ec8db-5528-41b3-8514-45c03ee4a398",
+            "Value": {
+                "id": "a2532b06-6a5c-459b-b0a1-3610d7acaac1",
+                "resourcePath": "objects\\start_game\\start_game.yy",
                 "resourceType": "GMObject"
             }
         },

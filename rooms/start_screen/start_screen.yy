@@ -7,7 +7,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-
+        "4b7372d8-1382-4d8a-bfd7-e74c5361a22f"
     ],
     "IsDnD": true,
     "layers": [
@@ -25,7 +25,7 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-
+{"name": "inst_6C5B405","id": "4b7372d8-1382-4d8a-bfd7-e74c5361a22f","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_6C5B405","objId": "bd8ec8db-5528-41b3-8514-45c03ee4a398","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 512,"y": 448}
             ],
             "layers": [
 
@@ -41,7 +41,7 @@
             "__type": "GMRBackgroundLayer_Model:#YoYoStudio.MVCFormat",
             "name": "Background",
             "id": "a9bedd8f-14a4-42e7-9d18-e7c47c9d739c",
-            "animationFPS": 15,
+            "animationFPS": 10,
             "animationSpeedType": "0",
             "colour": { "Value": 4294967295 },
             "depth": 100,
@@ -62,7 +62,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "5d2cdaef-7feb-4f82-8e81-0df62d1d462e",
+            "spriteId": "390fb511-441c-4cab-9b64-92a1c1fcc009",
             "stretch": false,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
