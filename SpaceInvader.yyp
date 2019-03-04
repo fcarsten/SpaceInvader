@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "5bac9eda-f49f-45dc-a7d2-70f217d3649c",
+            "Value": {
+                "id": "3f3179b1-8c1b-477f-9ce2-9d935d27b476",
+                "resourcePath": "fonts\\font_army\\font_army.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "5d2cdaef-7feb-4f82-8e81-0df62d1d462e",
             "Value": {
                 "id": "63cabe45-b58c-439a-877b-352200f77a21",
