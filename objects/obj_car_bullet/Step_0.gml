@@ -11,8 +11,8 @@ distance += 1;
 /// @DnDHash : 5F6D92E4
 /// @DnDArgument : "var" "distance"
 /// @DnDArgument : "op" "4"
-/// @DnDArgument : "value" "75"
-if(distance >= 75)
+/// @DnDArgument : "value" "25"
+if(distance >= 25)
 {
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
