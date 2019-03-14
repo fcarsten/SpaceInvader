@@ -111,6 +111,22 @@
             }
         },
         {
+            "Key": "452122cc-272c-4a4e-bbef-15e6d5bb3a5a",
+            "Value": {
+                "id": "35bfc4ca-4640-49ef-8d16-a80274f99721",
+                "resourcePath": "sprites\\spr_game_over_car\\spr_game_over_car.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "48855a45-7de0-419a-b230-8c14eab92fa1",
+            "Value": {
+                "id": "4847f238-d1de-4b18-b534-0ec33222fb7a",
+                "resourcePath": "sprites\\spr_game_over_ship\\spr_game_over_ship.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a2ba3db-0377-4f68-a8b6-7ef9fc12514a",
             "Value": {
                 "id": "a179919f-d8bc-4d4c-b06e-ecea268eb399",
@@ -387,6 +403,14 @@
             "Value": {
                 "id": "d57708d5-0ae7-4620-8336-0547623c57e0",
                 "resourcePath": "rooms\\start_screen\\start_screen.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "fdc21430-4406-4b41-a5a9-9192d1e3a5e0",
+            "Value": {
+                "id": "e660470f-9419-4171-a137-eebb8d91cfe9",
+                "resourcePath": "rooms\\game_over_screen\\game_over_screen.yy",
                 "resourceType": "GMRoom"
             }
         }

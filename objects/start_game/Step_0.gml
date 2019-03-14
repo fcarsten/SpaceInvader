@@ -13,10 +13,12 @@ if(car_ready == true)
 	/// @DnDArgument : "value" "true"
 	if(ship_ready == true)
 	{
-		/// @DnDAction : YoYo Games.Rooms.Next_Room
+		/// @DnDAction : YoYo Games.Rooms.Go_To_Room
 		/// @DnDVersion : 1
-		/// @DnDHash : 23C6CFB6
+		/// @DnDHash : 06A5740B
 		/// @DnDParent : 020EE191
-		room_goto_next();
+		/// @DnDArgument : "room" "arena"
+		/// @DnDSaveInfo : "room" "90cf614d-b86a-4378-9655-d2847e0e685b"
+		room_goto(arena);
 	}
 }
